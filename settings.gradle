@@ -1,0 +1,4 @@
+rootProject.name = 'KometSales'
+include 'domain'
+include 'services'
+
